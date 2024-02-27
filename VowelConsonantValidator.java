@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class PasswordValidator {
+public class VowelConsonantValidator {
     public static void main(String[] args) {
 
         String password = "aaaaabba";
